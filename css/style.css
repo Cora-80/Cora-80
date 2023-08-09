@@ -2,3 +2,6 @@
     font-size: xx-large;
 }
 
+.col-lg-12 span {
+    margin-right: 50px;
+}
